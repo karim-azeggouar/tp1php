@@ -7,11 +7,21 @@
 </head>
 <body>
 
+
+
+
+
+
+
 <h1>  Dev101 portfolio     </h1>
   
 
 
 <h2>   Ateliers PHP </h2>
+
+
+     <h3> Exercice Triangle </h3>
+
 
 
 
