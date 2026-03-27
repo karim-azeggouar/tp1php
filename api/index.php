@@ -7,9 +7,9 @@
 </head>
 <body>
 
-
-
-
+<?php
+include_once 'Traitement.php';
+?>
 
 
 
@@ -20,9 +20,9 @@
 <h2>   Ateliers PHP </h2>
 
 
-     <h3> Exercice Triangle </h3>
-
-
+<?php
+Triangle(10);
+?>
 
 
 
